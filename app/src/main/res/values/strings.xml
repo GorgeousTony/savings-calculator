@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Final Project</string>
+    <string name="txtTitle">Savings Calculator</string>
+    <string name="btnCalc">CALCULATE RESULT</string>
+    <string name="txtAmount">Initial Amount</string>
+    <string name="txtRate">% Interest Rate</string>
+    <string name="txtYears">Years</string>
+    <string name="txtGoal">Savings Goal</string>
+    <string name="imgCongrats">Congratulations! Image</string>
+    <string name="imgSplash">Dollar Savings Image</string>
+</resources>
